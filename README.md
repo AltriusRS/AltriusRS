@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Altrius</h1>
+<h1 align="center">Hi, I'm Altrius</h1>
 <h3 align="center">A computer science student from Scotland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatalcenturion" alt="fatalcenturion" /> </p>
 
 - 🔭 I’m currently working on [Vapor Trader](https://github.com/fatalcenturion/VaporTrader)
 
-- 🌱 I’m currently learning **Computer Science, Rust, and Go**
+- 🌱 I’m currently learning **Computer Science, Rust, and Go(lang)**
 
 - 💬 Ask me about **Javascript**
 
