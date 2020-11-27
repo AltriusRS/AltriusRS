@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatalcenturion" alt="fatalcenturion" /> </p>
 
-- 🔭 I’m currently working on [Vapor Trader](https://github.com/fatalcenturion/VaporTrader)
+- 🔭 I’m currently working on [Next Launch](https://github.com/fatalcenturion/NextLaunch)
 
 - 🌱 I’m currently learning **Computer Science, Rust, and Go(lang)**
 
