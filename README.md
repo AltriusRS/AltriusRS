@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fatalcenturion" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fatalcenturion" height="30" width="40" /></a>
+<a href="https://twitter.com/AltriusCodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fatalcenturion" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16102307" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="16102307" height="30" width="40" /></a>
 <a href="https://discord.gg/jUGS8UsgUF" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="jUGS8UsgUF" height="30" width="40" /></a>
 </p>
