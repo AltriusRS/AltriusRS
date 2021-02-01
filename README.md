@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tom.b.2k2@gmail.com**
 
-- ⚡ Fun fact **I have been programming since i was 13 years old**
+- ⚡ Fun fact **I have been programming since I was 13 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
