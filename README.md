@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Rust-Tokio**
 
-- 👯 I’m looking to collaborate on [Version checker](https://github.com/KalavarDB/utilities)
-
 - 📝 I regularly write articles on [https://kalavar.cf/dev-logs/](https://kalavar.cf/dev-logs/)
 
 - 💬 Ask me about **Rust**
