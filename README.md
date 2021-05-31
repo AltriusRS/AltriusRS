@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/AltriusCodes" target="blank"><img src="https://img.shields.io/twitter/follow/AltriusCodes?logo=twitter&style=flat" alt="AltriusCodes" /></a> </p>
 
-- 🔭 I’m currently working on [Kalavar](https://github.com/KalavarDB), and [Next Launch](https://github.com/AltriusRS/Nextlaunch)
-
-- 🌱 I’m currently learning **Rust-Tokio**
+- 🔭 I’m currently working on [NextLaunch](https://github.com/Nextlaunch)
 
 - 📝 I regularly write articles on [kalavar.cf](https://kalavar.cf/dev-logs/)
 
-- 💬 Ask me about **Rust**
+- 💬 Ask me about **Rust**, or **JavaScript**
 
 - 📫 How to reach me **tom.b.2k2@gmail.com**
 
