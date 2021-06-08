@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altriusrs" alt="altriusrs" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/altriusrs" target="blank"><img src="https://img.shields.io/twitter/follow/altriusrs?logo=twitter&style=for-the-badge" alt="altriusrs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/altriusrs" target="blank"><img src="https://img.shields.io/twitter/follow/AltriusCodes?logo=twitter&style=for-the-badge" alt="Altrius Codes" /></a> </p>
 
 - 🔭 I’m currently working on [Nextlaunch](https://nextlaunch.org)
 
