@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+* {
+  font-family: 'Noto Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: rgba(245, 246, 250,1.0);
+  background: rgba(53, 59, 72,1.0);
+}
+
+.highlight-text {
+    color: rgba(0, 168, 255,1.0)
+}
+
+.highlight-background {
+    background-color: rgba(0, 168, 255,1.0)
+}
+
+.highlight-border {
+    border-color: rgba(0, 168, 255,1.0)
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.landing {
+  padding-top:20em;
+  padding-bottom: 2em;
+  background: rgba(53, 59, 72,1.0);
+}
+
+.profile-icon {
+  max-width: 10em;
+  max-height: 10em;
+  border-radius: 20px;
+  margin-bottom: 1em;
+}
+
+.section {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ margin-bottom: 30px;
+    text-align: center;
+    align-content: center;
+}
+
+/* The side navigation menu */
+.sidenav {
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0;
+  left: 0;
+  background-color: rgba(47, 54, 64,1.0); /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 2em; /* Place content 60px from the top */
+  transition: 0.3s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: rgba(245, 246, 250,1.0);
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+    color: rgba(0, 168, 255,1.0);
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+  transition: margin-left .5s;
+  padding: 20px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+
+.navOpener {
+  float: right;
+  padding: 1em 1em 1em;
+}
+
+.disable-select {
+    user-select: none; /* supported by Chrome and Opera */
+   -webkit-user-select: none; /* Safari */
+   -khtml-user-select: none; /* Konqueror HTML */
+   -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+}
+
+.social-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 1em auto;
+}
+
+.social-card {
+border-radius: 20px;
+-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+  margin: 1em;
+  padding: 1em;
+  width: 10em;
+  height: 15em;
+  background-color: rgba(56, 65, 78,1.0)
+}
+
+.social-card h2 {
+  margin-bottom: 2em;
+}
+
+.social-icon {
+  width: 5em;
+  height: 5em;
+  margin-bottom: 2em;
+}
+
+.rounded {
+border-radius: 50%;
+}
+
+
+.project-bar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1em auto;
+}
+
+.project-card {
+  width: 10em;
+  height: 5em;
+}
