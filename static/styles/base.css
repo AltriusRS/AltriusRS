@@ -7,20 +7,20 @@
 }
 
 body {
-  color: rgba(245, 246, 250,1.0);
-  background: rgba(53, 59, 72,1.0);
+  color: rgba(245, 246, 250, 1.0);
+  background: rgba(53, 59, 72, 1.0);
 }
 
 .highlight-text {
-    color: rgba(0, 168, 255,1.0)
+  color: rgba(0, 168, 255, 1.0)
 }
 
 .highlight-background {
-    background-color: rgba(0, 168, 255,1.0)
+  background-color: rgba(0, 168, 255, 1.0)
 }
 
 .highlight-border {
-    border-color: rgba(0, 168, 255,1.0)
+  border-color: rgba(0, 168, 255, 1.0)
 }
 
 a {
@@ -29,9 +29,9 @@ a {
 }
 
 .landing {
-  padding-top:10em;
+  padding-top: 10em;
   padding-bottom: 2em;
-  background: rgba(53, 59, 72,1.0);
+  background: rgba(53, 59, 72, 1.0);
 }
 
 .profile-icon {
@@ -42,27 +42,35 @@ a {
 }
 
 .section {
- display: flex;
- flex-direction: column;
- align-items: center;
- justify-content: center;
- margin-bottom: 30px;
-    text-align: center;
-    align-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+  text-align: center;
+  align-content: center;
 }
 
 /* The side navigation menu */
 .sidenav {
-  height: 100%; /* 100% Full-height */
-  width: 0; /* 0 width - change this with JavaScript */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Stay on top */
+  height: 100%;
+  /* 100% Full-height */
+  width: 0;
+  /* 0 width - change this with JavaScript */
+  position: fixed;
+  /* Stay in place */
+  z-index: 1;
+  /* Stay on top */
   top: 0;
   left: 0;
-  background-color: rgba(47, 54, 64,1.0); /* Black*/
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 2em; /* Place content 60px from the top */
-  transition: 0.3s; /* 0.5 second transition effect to slide in the sidenav */
+  background-color: rgba(47, 54, 64, 1.0);
+  /* Black*/
+  overflow-x: hidden;
+  /* Disable horizontal scroll */
+  padding-top: 2em;
+  /* Place content 60px from the top */
+  transition: 0.3s;
+  /* 0.5 second transition effect to slide in the sidenav */
 }
 
 /* The navigation menu links */
@@ -70,14 +78,14 @@ a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: rgba(245, 246, 250,1.0);
+  color: rgba(245, 246, 250, 1.0);
   display: block;
   transition: 0.3s;
 }
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
-    color: rgba(0, 168, 255,1.0);
+  color: rgba(0, 168, 255, 1.0);
 }
 
 /* Position and style the close button (top right corner) */
@@ -97,10 +105,14 @@ a {
 
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
-}
+  .sidenav {
+    padding-top: 15px;
+  }
 
+  .sidenav a {
+    font-size: 18px;
+  }
+}
 
 .navOpener {
   float: right;
@@ -108,11 +120,16 @@ a {
 }
 
 .disable-select {
-    user-select: none; /* supported by Chrome and Opera */
-   -webkit-user-select: none; /* Safari */
-   -khtml-user-select: none; /* Konqueror HTML */
-   -moz-user-select: none; /* Firefox */
-   -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
+  /* supported by Chrome and Opera */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
 }
 
 .social-bar {
@@ -123,15 +140,15 @@ a {
 }
 
 .social-card {
-border-radius: 20px;
--webkit-box-shadow: 0 8px 6px -6px black;
-	   -moz-box-shadow: 0 8px 6px -6px black;
-	        box-shadow: 0 8px 6px -6px black;
+  border-radius: 20px;
+  background-color: #353b48;
+  -webkit-box-shadow: -4px 4px 15px 4px rgba(0, 0, 0, .65);
+  -moz-box-shadow: -4px 4px 15px 4px rgba(0, 0, 0, .65);
+  box-shadow: -4px 4px 15px 4px rgba(0, 0, 0, .65);
   margin: 1em;
   padding: 1em;
   width: 10em;
   height: 15em;
-  background-color: rgba(56, 65, 78,1.0)
 }
 
 .social-card h2 {
@@ -145,11 +162,16 @@ border-radius: 20px;
 }
 
 .rounded {
-border-radius: 50%;
+  border-radius: 50%;
 }
 
+.offset-left {
+  margin-left: -10em;
+  margin-right: auto;
+}
 
 .project-bar {
+  transition: all .5s;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -157,6 +179,105 @@ border-radius: 50%;
 }
 
 .project-card {
+  transition: all .5s;
+  margin: 1em auto;
+  border-radius: 20px;
+  background-color: #353b48;
+  -webkit-box-shadow: -4px 4px 15px 4px rgba(0, 0, 0, .65);
+  -moz-box-shadow: -4px 4px 15px 4px rgba(0, 0, 0, .65);
+  box-shadow: -4px 4px 15px 4px rgba(0, 0, 0, .65);
+  padding: 1em;
+  width: 40em;
+  height: 15em;
+  display: flex;
+  flex-direction: row;
+}
+
+.project-card h2 {
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  margin-top: 1em;
+}
+
+.project-details {
+  align-content: center;
+  float: right;
+}
+
+.project-icon {
+  transition: all .5s;
   width: 10em;
-  height: 5em;
+  height: 10em;
+  margin: auto 1em;
+}
+
+.project-title {
+  margin-bottom: 1em;
+}
+
+.project-description {
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  display: none;
+}
+
+.project-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.project-link, .social-link {
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  margin: auto 1em 1em 1em;
+}
+
+.project-card:hover {
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  height: max-content;
+}
+
+.project-card:hover .project-description {
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  display: block;
+  margin-bottom: 1em;
+}
+
+.project-link:hover, .social-link:hover {
+  color: rgba(0, 168, 255, 1.0);
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+
+.project-summary {
+  display: block;
+}
+
+.project-card:hover .project-summary {
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  display: none;
+}
+
+
+.copyright {
+  align-self: center;
+  padding: 1em auto;
+  color: #718093;
 }
