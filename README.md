@@ -11,7 +11,7 @@ Former data librarian for [Launch Library 2](https://thespacedevs.com/llapi) at 
 
 Email - [tom.b.2k2@gmail.com](mailto:tom.b.2k2@gmail.com?subject=Hi%20Thomas%2C%20I%20want%20to%20contact%20you%20regarding%3A)
 
-Discord - [Altrius#9733]
+Discord - Altrius#9733
 
 Github - [AltriusRS](https://github.com/AltriusRS)
 
