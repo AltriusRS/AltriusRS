@@ -8,7 +8,6 @@ I write code in my free time as a hobby. Thats basically all I have to say here.
 **WAN Show Bingo** - I am apparently an active contributor to someone else's project relating to the show, I often stop by and help provide live bingo tile coverage (when I am able to)
 
 Former data librarian for [Launch Library 2](https://thespacedevs.com/llapi) at [TheSpaceDevs](https://github.com/TheSpaceDevs).
-4
 <br>
 
 ### Open to contact - My links are below:
