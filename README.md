@@ -1,4 +1,4 @@
-# Hi, I'm Thomas,
+# Hi, I'm Arthur,
 
 I write code in my free time as a hobby. Thats basically all I have to say here.
 
@@ -8,14 +8,14 @@ I write code in my free time as a hobby. Thats basically all I have to say here.
 **WAN Show Bingo** - I am apparently an active contributor to someone else's project relating to the show, I often stop by and help provide live bingo tile coverage (when I am able to)
 
 Former data librarian for [Launch Library 2](https://thespacedevs.com/llapi) at [TheSpaceDevs](https://github.com/TheSpaceDevs).
-
+4
 <br>
 
 ### Open to contact - My links are below:
 
-Email - [tom.b.2k2@gmail.com](mailto:tom.b.2k2@gmail.com?subject=Hi%20Thomas%2C%20I%20want%20to%20contact%20you%20regarding%3A)
+Email - [arthur@thewandb.com](mailto:arthur@thewandb.com?subject=Hi%20Arthur%2C%20I%20want%20to%20contact%20you%20regarding%3A)
 
-Discord - Altrius#9733
+Discord - altrius_codes
 
 Github - [AltriusRS](https://github.com/AltriusRS)
 
