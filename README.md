@@ -4,8 +4,13 @@ I write code in my free time as a hobby. Thats basically all I have to say here.
 
 ### Current Projects
 [**The WAN Database**](https://github.com/TheWANDatabase/) - A comprehensive archive of all things related to the semi-popular weekly tech podcast "The WAN Show" produced by Linus Media Group.
+- Also the only source of accurate data on Floatplane's Livestream Backend. - ![Floatplane Shield](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fedge.thewandb.com%2Fv2%2Flive%2Fshield&query=%24.message&style=flat-square&logo=floatplane&logoColor=%2300AEEF&label=Floatplane%20Live&cacheSeconds=30&link=https%3A%2F%2Fwww.floatplane.com%2Fchannel%2Flinustechtips%2Flive
+)
 
-**WAN Show Bingo** - I am apparently an active contributor to someone else's project relating to the show, I often stop by and help provide live bingo tile coverage (when I am able to)
+
+**WAN Show Bingo** - A community led bingo project with tiles topical to the show.
+
+
 
 Former data librarian for [Launch Library 2](https://thespacedevs.com/llapi) at [TheSpaceDevs](https://github.com/TheSpaceDevs).
 <br>
