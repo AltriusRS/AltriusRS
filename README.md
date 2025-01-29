@@ -19,7 +19,7 @@ Former data librarian for [Launch Library 2](https://thespacedevs.com/llapi) at 
 
 ### Open to contact - My links are below:
 
-Email - [arthur@thewandb.com](mailto:arthur@thewandb.com?subject=Hi%20Arthur%2C%20I%20want%20to%20contact%20you%20regarding%3A)
+Email - [arthur@thewandb.com](mailto:arthur@totallyfake.dev?subject=Hi%20Arthur%2C%20I%20want%20to%20contact%20you%20regarding%3A)
 
 Discord - altrius_codes
 
